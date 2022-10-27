@@ -1,2 +1,2 @@
 # Calculator-Exercise
-(https://github.com/georgekuttycl/Calculator-Exercise/blob/master/Assets/images/img.PNG)
+![alt text](https://github.com/georgekuttycl/Calculator-Exercise/blob/master/Assets/images/img.PNG)
